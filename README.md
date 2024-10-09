@@ -16,13 +16,13 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
       </a>
-    </td>
+    </td> -->
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+      <a href="https://www.instagram.com/himanshu_d620/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Himanshu Dwivedi">
       </a>
     </td>
